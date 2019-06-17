@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkillTracker.Service", "SkillTracker.Service\SkillTracker.Service.csproj", "{17EEDC88-433E-40D4-970B-CC5B1E2CC120}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkillTracker.Data", "SkillTracker.Data\SkillTracker.Data.csproj", "{34FAEBD2-0CE2-4B01-8290-D81237D381A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkillTracker.Tests", "SkillTracker.Tests\SkillTracker.Tests.csproj", "{B754D5C8-3F01-46B9-8563-3DF2265830B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug.FSD|Any CPU = Debug.FSD|Any CPU
+		Debug.Niles|Any CPU = Debug.Niles|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17EEDC88-433E-40D4-970B-CC5B1E2CC120}.Debug.FSD|Any CPU.ActiveCfg = Debug.FSD|Any CPU
+		{17EEDC88-433E-40D4-970B-CC5B1E2CC120}.Debug.FSD|Any CPU.Build.0 = Debug.FSD|Any CPU
+		{17EEDC88-433E-40D4-970B-CC5B1E2CC120}.Debug.Niles|Any CPU.ActiveCfg = Debug.Niles|Any CPU
+		{17EEDC88-433E-40D4-970B-CC5B1E2CC120}.Debug.Niles|Any CPU.Build.0 = Debug.Niles|Any CPU
+		{17EEDC88-433E-40D4-970B-CC5B1E2CC120}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17EEDC88-433E-40D4-970B-CC5B1E2CC120}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17EEDC88-433E-40D4-970B-CC5B1E2CC120}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17EEDC88-433E-40D4-970B-CC5B1E2CC120}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34FAEBD2-0CE2-4B01-8290-D81237D381A7}.Debug.FSD|Any CPU.ActiveCfg = Debug.FSD|Any CPU
+		{34FAEBD2-0CE2-4B01-8290-D81237D381A7}.Debug.FSD|Any CPU.Build.0 = Debug.FSD|Any CPU
+		{34FAEBD2-0CE2-4B01-8290-D81237D381A7}.Debug.Niles|Any CPU.ActiveCfg = Debug.Niles|Any CPU
+		{34FAEBD2-0CE2-4B01-8290-D81237D381A7}.Debug.Niles|Any CPU.Build.0 = Debug.Niles|Any CPU
+		{34FAEBD2-0CE2-4B01-8290-D81237D381A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34FAEBD2-0CE2-4B01-8290-D81237D381A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34FAEBD2-0CE2-4B01-8290-D81237D381A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34FAEBD2-0CE2-4B01-8290-D81237D381A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B754D5C8-3F01-46B9-8563-3DF2265830B6}.Debug.FSD|Any CPU.ActiveCfg = Debug.FSD|Any CPU
+		{B754D5C8-3F01-46B9-8563-3DF2265830B6}.Debug.FSD|Any CPU.Build.0 = Debug.FSD|Any CPU
+		{B754D5C8-3F01-46B9-8563-3DF2265830B6}.Debug.Niles|Any CPU.ActiveCfg = Debug.Niles|Any CPU
+		{B754D5C8-3F01-46B9-8563-3DF2265830B6}.Debug.Niles|Any CPU.Build.0 = Debug.Niles|Any CPU
+		{B754D5C8-3F01-46B9-8563-3DF2265830B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B754D5C8-3F01-46B9-8563-3DF2265830B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B754D5C8-3F01-46B9-8563-3DF2265830B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B754D5C8-3F01-46B9-8563-3DF2265830B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FA3DA89-2968-4694-A270-B427745485FE}
+	EndGlobalSection
+EndGlobal
